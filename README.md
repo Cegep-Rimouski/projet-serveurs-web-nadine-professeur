@@ -1,32 +1,8 @@
 # projet-serveurs-web-nadine-professeur
-Voici les commmandes tapées pour obtenir mon serveur web : 
 
-## Installation de linux
+https://www.quebec.agency/
 
-blablabla
+https://wiki.quebec.agency/doku.php
 
-## Installation de Apache
-
-blablabla
-
-## Virtualisation
-
-blablabla
-
-## Sites web
-Tous les sites sont des sites sans base de données
-
-### Docuwiki
-
-blablabla
-
-### Flatpress
-
-blablabla
-
-
-
-
-
-
+https://blog.quebec.agency/
 
