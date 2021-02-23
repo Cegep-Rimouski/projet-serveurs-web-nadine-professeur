@@ -1,2 +1,3 @@
 # projet-serveurs-web-nadine-professeur
-projet-serveurs-web-nadine-professeur created by GitHub Classroom
+Voici les commmandes tapées pour obtenir mon serveur web : 
+
